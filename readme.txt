@@ -6,3 +6,5 @@ Git has a mutable index called statge.
 Git tracks chaneges of file.
 
 Github is a public place where we can share our project with anyone.
+
+Ceating a new branch is quick.
